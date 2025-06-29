@@ -4,130 +4,112 @@ title: "The Problem"
 permalink: /about/
 ---
 
-# The Sustainability Crisis in Academic Open Source
+# Research Software is Failing
 
-Academic research increasingly depends on open-source tools, yet the sustainability of this critical infrastructure remains precarious. **This is not just a technical problem—it's a crisis that threatens the foundation of modern scientific research.**
+**The digital infrastructure that powers modern science is dangerously fragile.** Critical research tools operate without sustainable funding, relying on volunteers and short-term grants. This isn't just inconvenient—it's a systemic threat to scientific progress.
 
-## The Scale of the Problem
+## The Scale of the Crisis
 
-<div class="stats-container">
-  <div class="stat-box">
-    <h3>Critical Dependencies</h3>
-    <p>Major research domains rely on a handful of essential tools:</p>
-    <ul>
-      <li><strong>Neuroscience:</strong> EEGLAB, FieldTrip, BrainStorm, MNE-Python, SPM</li>
-      <li><strong>Bioinformatics:</strong> BioConductor, Galaxy, GATK</li>
-      <li><strong>Physics:</strong> ROOT, Geant4, NumPy, SciPy</li>
-      <li><strong>Climate Science:</strong> xarray, Dask, Matplotlib</li>
-    </ul>
+<div class="crisis-stats">
+  <div class="stat-item">
+    <h3>🔬 Dependency Crisis</h3>
+    <p>Essential tools across every research domain—from EEGLAB in neuroscience to NumPy in data science—operate without guaranteed funding.</p>
   </div>
   
-  <div class="stat-box">
-    <h3>Vulnerability Assessment</h3>
-    <p>Recent analysis reveals alarming fragility:</p>
-    <ul>
-      <li>Loss of <strong>1-2 key maintainers</strong> could collapse entire ecosystems</li>
-      <li>Most projects operate with <strong>insufficient funding</strong> for basic maintenance</li>
-      <li>Critical infrastructure relies on <strong>volunteer labor</strong></li>
-      <li>No systematic approach to <strong>succession planning</strong></li>
-    </ul>
+  <div class="stat-item">
+    <h3>⚠️ Critical Fragility</h3>
+    <p>The loss of just 1-2 key maintainers could collapse entire research ecosystems that millions depend on.</p>
+  </div>
+  
+  <div class="stat-item">
+    <h3>💔 Maintainer Burnout</h3>
+    <p>Volunteer maintainers burn out from unglamorous but essential work that receives no institutional recognition.</p>
   </div>
 </div>
 
 ## Why Traditional Funding Fails
 
-### 🎯 **Grant Cycle Mismatch**
-Traditional research grants typically last 2-5 years and focus on novel development. Software maintenance, however, requires **continuous, long-term support**. The mismatch creates dangerous gaps where established tools lose funding just as they become most valuable to the research community.
+### 🎯 **The Innovation Bias**
+Funding agencies reward shiny new projects, not boring maintenance. But keeping software running is just as critical as building it.
 
-### 💡 **Innovation Bias**
-Funding agencies naturally prioritize innovative, cutting-edge research. This creates a systematic bias against the "boring" but essential work of maintaining, documenting, and securing existing tools. The result: a graveyard of abandoned software and researchers constantly reinventing the wheel.
+### ⏰ **Grant Cycle Mismatch** 
+Research grants last 2-5 years. Software maintenance is forever. When grants end, maintenance stops—and software breaks.
 
-### 🏢 **Institutional Misalignment**
-Universities reward faculty for publications and novel research, not for maintaining software. Research software engineers often lack clear career paths, leading to brain drain and loss of institutional knowledge. The very people best qualified to maintain research infrastructure are incentivized to move on.
+### 🏢 **Career Disincentives**
+Universities reward faculty for publications, not software upkeep. Research software engineers have no clear career path for maintenance work.
 
-### 📊 **Invisible Impact**
-The impact of software maintenance is often invisible until something breaks. Unlike publications or patents, keeping software running doesn't generate measurable outputs that traditional evaluation systems recognize. This "success invisibility" perpetuates the underfunding cycle.
-
-## Real-World Consequences
+## Real Consequences
 
 <div class="consequence-grid">
-  <div class="consequence-item crisis">
-    <h4>🚨 Critical Failures</h4>
-    <p>When maintainers burn out or move on, essential tools become security risks, incompatible with new systems, or simply stop working. Entire research programs can grind to a halt.</p>
+  <div class="consequence-item">
+    <h4>🚨 Research Disruption</h4>
+    <p>When critical tools fail, entire research programs grind to a halt while researchers scramble for alternatives.</p>
   </div>
   
-  <div class="consequence-item waste">
-    <h4>💸 Resource Waste</h4>
-    <p>Researchers spend enormous time troubleshooting broken tools, working around bugs, or switching between incompatible software versions instead of focusing on science.</p>
+  <div class="consequence-item">
+    <h4>💸 Wasted Resources</h4>
+    <p>Researchers spend months troubleshooting broken software instead of doing science.</p>
   </div>
   
-  <div class="consequence-item barrier">
-    <h4>🚧 Entry Barriers</h4>
-    <p>Poor documentation and user experience in underfunded tools create barriers for new researchers, particularly those from underrepresented groups or resource-constrained institutions.</p>
-  </div>
-  
-  <div class="consequence-item reproducibility">
+  <div class="consequence-item">
     <h4>🔄 Reproducibility Crisis</h4>
-    <p>Broken or abandoned software makes reproducing scientific results difficult or impossible, undermining the reliability of scientific knowledge.</p>
+    <p>Broken or abandoned software makes reproducing scientific results impossible.</p>
+  </div>
+  
+  <div class="consequence-item">
+    <h4>🚧 Barriers to Entry</h4>
+    <p>Poor documentation and unstable tools exclude newcomers and underrepresented groups.</p>
   </div>
 </div>
 
 ## The Network Effect Problem
 
-Research software exists in complex dependency networks. A tool might seem stable because it's actively maintained, but it could depend on dozens of other packages, any of which could fail. This creates a **cascade vulnerability** where the failure of one small component can bring down entire research workflows.
+Research software doesn't exist in isolation. Tools depend on dozens of other packages. When one component fails, it can cascade through the entire ecosystem. **A single point of failure can break thousands of research workflows.**
 
-### Example: The NumPy Foundation
-NumPy, fundamental to scientific computing in Python, supports millions of researchers worldwide. Despite its critical importance, it operated for years without dedicated funding. Only recently, through heroic volunteer efforts and targeted foundation support, has it achieved some stability. But NumPy is the exception—most research software lacks such visibility and community support.
+### Example: The NumPy Near-Miss
+NumPy—fundamental to scientific computing in Python—operated for years without dedicated funding despite supporting millions of researchers. Only heroic volunteer efforts and recent foundation support have stabilized it. **NumPy is the exception. Most research software lacks such visibility and support.**
 
-## Why This Matters for Science
+## Why This Threatens Science Itself
 
-**Science builds on previous work.** When research infrastructure fails, it doesn't just inconvenience current researchers—it breaks the chain of knowledge transfer that enables scientific progress. Future researchers lose access to tools and methods that embody decades of accumulated expertise.
+**Science builds on previous work.** When research software fails, it doesn't just inconvenience current researchers—it breaks the chain of knowledge transfer that enables scientific progress.
 
-The sustainability crisis in research software is, fundamentally, **a threat to the continuity of scientific knowledge itself.**
+**The sustainability crisis in research software is a threat to the continuity of scientific knowledge.**
 
 ---
 
 <div class="solution-preview">
-  <h2>The Path Forward</h2>
-  <p>The OpenScience Collective proposes a systematic solution that addresses these root causes through sustainable funding, professional career paths, and shared infrastructure. Learn how we can transform this crisis into an opportunity.</p>
+  <h2>There Is a Solution</h2>
+  <p>The math is simple: just 0.1% of grant funding could solve this crisis completely. We know how to fix this—we just need to act.</p>
   <div class="solution-cta">
-    <a href="/solution" class="btn btn-primary">Explore Our Solution</a>
+    <a href="/solution" class="btn btn-primary">See Our Solution</a>
     <a href="/get-involved" class="btn btn-secondary">Join the Movement</a>
   </div>
 </div>
 
 <style>
-.stats-container {
+.crisis-stats {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 2rem;
   margin: 2rem 0;
 }
 
-.stat-box {
-  background: #f8f9fa;
+.stat-item {
+  background: #fff5f5;
   padding: 1.5rem;
   border-radius: 8px;
-  border-top: 4px solid #dc3545;
+  border-left: 4px solid #dc3545;
 }
 
-.stat-box h3 {
+.stat-item h3 {
   color: #dc3545;
   margin-top: 0;
-}
-
-.stat-box ul {
-  margin: 0;
-  padding-left: 1.2rem;
-}
-
-.stat-box li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .consequence-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minMax(250px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
 }
@@ -135,32 +117,14 @@ The sustainability crisis in research software is, fundamentally, **a threat to 
 .consequence-item {
   padding: 1.5rem;
   border-radius: 8px;
-  border-left: 4px solid;
+  background: #f8f9fa;
+  border-left: 4px solid #ff9800;
 }
 
 .consequence-item h4 {
   margin-top: 0;
+  color: #ff9800;
   margin-bottom: 0.5rem;
-}
-
-.crisis {
-  background-color: #fff5f5;
-  border-color: #dc3545;
-}
-
-.waste {
-  background-color: #fff8e1;
-  border-color: #ff9800;
-}
-
-.barrier {
-  background-color: #f3e5f5;
-  border-color: #9c27b0;
-}
-
-.reproducibility {
-  background-color: #e8f4fd;
-  border-color: #2196f3;
 }
 
 .solution-preview {
@@ -216,10 +180,7 @@ The sustainability crisis in research software is, fundamentally, **a threat to 
 }
 
 @media (max-width: 768px) {
-  .stats-container {
-    grid-template-columns: 1fr;
-  }
-  
+  .crisis-stats,
   .consequence-grid {
     grid-template-columns: 1fr;
   }

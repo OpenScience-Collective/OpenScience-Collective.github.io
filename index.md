@@ -28,64 +28,57 @@ title: "Sustainable Funding for Academic Open Science"
   </div>
 </div>
 
-## The Crisis in Academic Open Source
+## The Crisis
 
-Recent studies reveal **alarming vulnerability** in critical research software. Tools like EEGLAB, FieldTrip, BrainStorm, MNE-Python, and SPM—foundational to human neuroscience research—operate without stable funding mechanisms. The loss of just one or two key maintainers could jeopardize entire research ecosystems.
+**Research software is breaking.** Critical tools that millions of researchers depend on operate without sustainable funding. The loss of just 1-2 key maintainers could collapse entire research ecosystems.
 
 <div class="problem-grid">
   <div class="problem-item">
     <h3>🔧 Maintenance Crisis</h3>
-    <p>Critical tools rely on volunteer efforts and sporadic grants, not sustainable funding for ongoing maintenance.</p>
+    <p>Essential research tools rely on volunteer labor and short-term grants</p>
   </div>
   <div class="problem-item">
-    <h3>💸 Funding Gaps</h3>
-    <p>Traditional grants focus on new development, leaving established software without resources for upkeep.</p>
+    <h3>💸 Funding Mismatch</h3>
+    <p>Grants fund new features but not the boring (yet critical) maintenance work</p>
   </div>
   <div class="problem-item">
-    <h3>🏗️ Infrastructure Risk</h3>
-    <p>Shared resources like documentation, security, and community management are chronically underfunded.</p>
-  </div>
-  <div class="problem-item">
-    <h3>👥 Unsustainable Careers</h3>
-    <p>Research software engineers lack stable career paths, leading to brain drain and institutional knowledge loss.</p>
+    <h3>🚨 System Failure</h3>
+    <p>When maintainers burn out, entire research workflows can break overnight</p>
   </div>
 </div>
 
-## Our Vision: A Systematic Solution
+## Our Solution
 
-The OpenScience Collective proposes a **transformative funding model** that addresses these challenges systematically:
+**Just 0.1% of grant funding** can solve this crisis through systematic, sustainable funding:
 
-### 🎯 **Direct-Cost Funding Stream**
-A small percentage (~0.1%) of research grant direct costs creates a proportional relationship between software use and financial support—without significantly impacting research budgets.
+### 💰 **Small Contribution, Big Impact**
+Research grants contribute ~0.1% of direct costs to a shared sustainability fund
 
-### 🔄 **Usage-Based Allocation**
-Transparent metrics (downloads, citations, grant mentions) ensure funding reaches the tools researchers actually depend on.
+### 📊 **Smart Distribution**
+Transparent metrics ensure funding reaches the tools researchers actually use
 
-### 🛠️ **Maintenance-First Approach**
-Recognizes software upkeep as legitimate scientific activity deserving dedicated resources, providing guaranteed baseline funding for established tools.
-
-### 🤝 **Economies of Scale**
-Shared professional services for documentation, security, testing, and community management deliver expertise that individual projects cannot afford independently.
+### 🔧 **Maintenance First**
+Stable funding for the unglamorous but essential work of keeping software running
 
 ---
 
 <div class="mission-statement">
   <blockquote>
-    <p><strong>Our mission:</strong> Ensure the sustainability of open-source research infrastructure by establishing a transparent, proportional funding model that empowers stable careers for research software engineers, strengthens the digital foundations of academic research, and secures open scientific tools for future generations.</p>
+    <p><strong>Our mission:</strong> Create sustainable funding for the research software that powers modern science.</p>
   </blockquote>
 </div>
 
-## Ready to Transform Research Infrastructure?
+## Why This Matters
 
-The OpenScience Collective represents a systemic solution to a systemic problem. By embedding support for open-source tools directly into the research funding ecosystem, we create sustainability without relying on volunteer labor or unpredictable funding cycles.
+**Science builds on previous work.** When research software fails, it breaks the chain of knowledge that enables scientific progress. We're creating a systematic solution that ensures the digital tools of science remain reliable for future generations.
 
 <div class="cta-section">
   <h3>Join the Movement</h3>
-  <p>Whether you're a researcher, institution administrator, software maintainer, or funding agency, there's a role for you in building sustainable research infrastructure.</p>
+  <p>Whether you're a researcher, university administrator, or funding agency—help us fix research software sustainability.</p>
   <div class="cta-buttons">
     <a href="/get-involved" class="btn btn-primary">Get Involved</a>
     <a href="/solution" class="btn btn-outline">Learn More</a>
-    <a href="https://github.com/OpenScience-Collective" class="btn btn-outline">View on GitHub</a>
+    <a href="https://github.com/OpenScience-Collective/osc" class="btn btn-outline">Read Full Concept</a>
   </div>
 </div>
 
@@ -94,7 +87,8 @@ The OpenScience Collective represents a systemic solution to a systemic problem.
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   padding: 4rem 2rem;
-  margin: -2rem -2rem 3rem -2rem;
+  margin: 0 0 3rem 0;
+  border-radius: 12px;
   text-align: center;
 }
 

@@ -4,218 +4,130 @@ title: "Our Solution"
 permalink: /solution/
 ---
 
-# A Systematic Solution to Research Software Sustainability
+# The 0.1% Solution
 
-The OpenScience Collective proposes a **transformative funding model** that addresses the root causes of the research software sustainability crisis. Our approach creates stable, predictable funding while incentivizing best practices and innovation.
+A small percentage of grant funding can solve the research software sustainability crisis.
 
-## The Core Model: Percentage-Based Funding
+## How It Works
 
 <div class="model-overview">
-  <div class="model-visual">
-    <h3>💰 How It Works</h3>
-    <div class="funding-flow">
-      <div class="flow-step">
-        <span class="step-number">1</span>
-        <h4>Grant Collection</h4>
-        <p>Research grants contribute ~0.1% of direct costs</p>
-      </div>
-      <div class="flow-arrow">→</div>
-      <div class="flow-step">
-        <span class="step-number">2</span>
-        <h4>Usage Tracking</h4>
-        <p>Transparent metrics track software usage and impact</p>
-      </div>
-      <div class="flow-arrow">→</div>
-      <div class="flow-step">
-        <span class="step-number">3</span>
-        <h4>Smart Distribution</h4>
-        <p>Funding allocated based on usage, maintenance needs, and innovation potential</p>
-      </div>
+  <div class="funding-flow">
+    <div class="flow-step">
+      <span class="step-number">1</span>
+      <h4>Collect</h4>
+      <p>~0.1% from research grants</p>
+    </div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-step">
+      <span class="step-number">2</span>
+      <h4>Track</h4>
+      <p>Measure software usage & impact</p>
+    </div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-step">
+      <span class="step-number">3</span>
+      <h4>Fund</h4>
+      <p>Direct resources to maintenance</p>
     </div>
   </div>
 </div>
 
-### 🎯 **Direct-Cost Funding Stream**
-Researchers identify which open source tools they use or plan to use in their grant proposals. A small percentage (~0.1%) of direct costs flows to the collective fund, creating a **proportional relationship** between software use and financial support without significantly impacting research budgets.
+### The Math
+- **Typical grant:** $500,000
+- **Our contribution:** $500 (0.1%)
+- **Impact:** Sustainable funding for critical research tools
 
-**Financial Impact:** For a typical $500K research grant, this represents just $500—less than the cost of a single conference trip, but enough to make a meaningful difference when aggregated across thousands of grants.
+## Four Key Principles
 
-## Four Pillars of Sustainability
-
-### 🔧 **1. Maintenance-First Approach**
-
-Unlike traditional grants that prioritize new features, we recognize **software maintenance as legitimate scientific activity** deserving dedicated resources.
-
-<div class="pillar-details">
-  <div class="pillar-benefit">
-    <h4>Guaranteed Baseline Funding</h4>
-    <p>Established software with demonstrated usage receives predictable maintenance funding proportional to their impact, freeing maintainers from constant grant-writing cycles.</p>
+<div class="principles-grid">
+  <div class="principle-item">
+    <h3>🔧 Maintenance First</h3>
+    <p>Fund the boring but essential work of keeping software running, secure, and compatible.</p>
   </div>
   
-  <div class="pillar-benefit">
-    <h4>Technical Debt Reduction</h4>
-    <p>Dedicated resources for refactoring, security updates, and compatibility maintenance prevent the accumulation of technical debt that makes software unusable.</p>
+  <div class="principle-item">
+    <h3>📊 Usage-Based</h3>
+    <p>Resources go to tools researchers actually use, measured through downloads, citations, and grant mentions.</p>
   </div>
   
-  <div class="pillar-benefit">
-    <h4>Professional Recognition</h4>
-    <p>Maintenance work receives formal recognition and career credit, making it a viable long-term career path for research software engineers.</p>
+  <div class="principle-item">
+    <h3>🤝 Shared Services</h3>
+    <p>Pool resources for documentation, security, testing, and community management.</p>
+  </div>
+  
+  <div class="principle-item">
+    <h3>🎯 Innovation Support</h3>
+    <p>Competitive grants drive new tool development while maintenance gets guaranteed funding.</p>
   </div>
 </div>
 
-### 📊 **2. Usage-Based Allocation**
+## Implementation Plan
 
-Transparent, multi-dimensional metrics ensure funding reaches the tools researchers actually depend on:
+### Phase 1: Pilot Programs (Year 1)
+- Partner with 3-5 universities with established OSPOs
+- Test with ~50 research grants
+- Refine metrics and processes
 
-<div class="metrics-grid">
-  <div class="metric-category">
-    <h4>📈 Usage Statistics</h4>
+### Phase 2: Expansion (Years 2-3)
+- Expand to 20+ institutions
+- Integrate with major funding agencies
+- Develop international partnerships
+
+### Phase 3: Scale (Years 4-5)
+- National and international adoption
+- Self-sustaining ecosystem
+- Standard practice for research grants
+
+## Benefits for Everyone
+
+<div class="benefits-grid">
+  <div class="benefit-group">
+    <h3>🔬 Researchers</h3>
     <ul>
-      <li>Downloads and installations</li>
-      <li>Active user metrics</li>
-      <li>Integration dependencies</li>
+      <li>More reliable, better-documented tools</li>
+      <li>Less time troubleshooting, more time on science</li>
+      <li>Reproducible research with stable software</li>
     </ul>
   </div>
   
-  <div class="metric-category">
-    <h4>📝 Academic Impact</h4>
+  <div class="benefit-group">
+    <h3>🏛️ Universities</h3>
     <ul>
-      <li>Paper citations</li>
-      <li>Grant proposal mentions</li>
-      <li>Research output attribution</li>
+      <li>Competitive advantage with better infrastructure</li>
+      <li>Recognition for software contributions</li>
+      <li>Reduced risk of research disruption</li>
     </ul>
   </div>
   
-  <div class="metric-category">
-    <h4>🤝 Community Health</h4>
+  <div class="benefit-group">
+    <h3>💼 Funding Agencies</h3>
     <ul>
-      <li>Contributor activity</li>
-      <li>Support forum engagement</li>
-      <li>Documentation quality</li>
-    </ul>
-  </div>
-</div>
-
-### 🏗️ **3. Shared Infrastructure & Services**
-
-Individual software projects can't afford professional-grade services. By pooling resources, we create **economies of scale** that deliver enterprise-level support:
-
-<div class="services-grid">
-  <div class="service-item">
-    <h4>🛡️ Security & Compliance</h4>
-    <p>Professional security audits, vulnerability management, and compliance with institutional requirements</p>
-  </div>
-  
-  <div class="service-item">
-    <h4>📚 Documentation & Training</h4>
-    <p>Professional technical writers, user experience designers, and training program development</p>
-  </div>
-  
-  <div class="service-item">
-    <h4>🧪 Testing & CI/CD</h4>
-    <p>Shared testing infrastructure, continuous integration, and automated quality assurance</p>
-  </div>
-  
-  <div class="service-item">
-    <h4>👥 Community Management</h4>
-    <p>Professional community managers, user support, and contributor onboarding programs</p>
-  </div>
-</div>
-
-### 🚀 **4. Innovation Through Competition**
-
-While maintenance receives guaranteed funding, **innovation is driven by competitive grants** that reward:
-- New tool development addressing unmet research needs
-- Cross-project collaboration and standardization
-- Breakthrough features that advance entire research domains
-- Integration projects that connect isolated software ecosystems
-
-## Implementation Strategy
-
-### Phase 1: Pilot Partnerships 🎯
-Start with universities that have established Open Source Program Offices (OSPOs) and progressive funding agencies willing to experiment with new models.
-
-**Target Partners:**
-- UC Berkeley, Stanford, MIT (established OSPOs)
-- NSF, NIH (forward-thinking program officers)
-- Major research computing centers
-
-### Phase 2: Ecosystem Integration 🔄
-Integrate with existing grant systems through gradual adoption:
-- Develop template language for grant proposals
-- Create easy reporting mechanisms for software usage
-- Build partnerships with institutional research offices
-
-### Phase 3: Scale & Standardize 📈
-Expand to additional research domains and funding sources:
-- International funding agencies
-- Private foundation partnerships
-- Industry collaboration frameworks
-
-## Benefits for All Stakeholders
-
-<div class="stakeholder-benefits">
-  <div class="stakeholder-group">
-    <h3>🔬 For Researchers</h3>
-    <ul>
-      <li><strong>Better Tools:</strong> More reliable, better-documented software</li>
-      <li><strong>Reduced Friction:</strong> Less time troubleshooting, more time on science</li>
-      <li><strong>Reproducibility:</strong> Stable tools support reproducible research</li>
-      <li><strong>Innovation:</strong> Competitive grants drive cutting-edge development</li>
+      <li>Greater return on investment</li>
+      <li>Reduced duplication across grants</li>
+      <li>Measurable software impact</li>
     </ul>
   </div>
   
-  <div class="stakeholder-group">
-    <h3>👩‍💻 For Software Maintainers</h3>
+  <div class="benefit-group">
+    <h3>👩‍💻 Software Maintainers</h3>
     <ul>
-      <li><strong>Stable Funding:</strong> Predictable resources for maintenance work</li>
-      <li><strong>Career Recognition:</strong> Professional credit for maintenance contributions</li>
-      <li><strong>Shared Resources:</strong> Access to professional services and infrastructure</li>
-      <li><strong>Community:</strong> Network of peers facing similar challenges</li>
-    </ul>
-  </div>
-  
-  <div class="stakeholder-group">
-    <h3>🏛️ For Universities</h3>
-    <ul>
-      <li><strong>Recognition:</strong> Credit for software contributions to research</li>
-      <li><strong>Competitive Advantage:</strong> Better research infrastructure attracts talent</li>
-      <li><strong>Cost Efficiency:</strong> Shared services reduce individual project overhead</li>
-      <li><strong>Risk Reduction:</strong> Stable software reduces research continuity risks</li>
-    </ul>
-  </div>
-  
-  <div class="stakeholder-group">
-    <h3>💼 For Funding Agencies</h3>
-    <ul>
-      <li><strong>Greater Impact:</strong> Investments remain valuable long-term</li>
-      <li><strong>Reduced Duplication:</strong> Coordinated development prevents redundant work</li>
-      <li><strong>Measurable Outcomes:</strong> Clear metrics for software impact assessment</li>
-      <li><strong>System Efficiency:</strong> Better return on investment across portfolios</li>
+      <li>Stable careers with predictable funding</li>
+      <li>Professional recognition for maintenance</li>
+      <li>Shared resources and community</li>
     </ul>
   </div>
 </div>
 
 ---
 
-<div class="call-to-action">
-  <h2>Ready to Transform Research Infrastructure?</h2>
-  <p>The OpenScience Collective model fundamentally reframes how we value research infrastructure—shifting from treating software as disposable products to recognizing them as essential scientific instruments requiring ongoing investment.</p>
-  
-  <div class="cta-stats">
-    <div class="cta-stat">
-      <span class="number">0.1%</span>
-      <span class="label">of grant funding</span>
-    </div>
-    <div class="cta-stat">
-      <span class="number">100%</span>
-      <span class="label">sustainable infrastructure</span>
-    </div>
-  </div>
+<div class="solution-cta">
+  <h2>Ready to Transform Research Software?</h2>
+  <p>The math is simple: 0.1% of grant funding = 100% sustainable research infrastructure</p>
   
   <div class="cta-buttons">
     <a href="/get-involved" class="btn btn-primary">Join the Movement</a>
-    <a href="/governance" class="btn btn-secondary">Learn About Governance</a>
+    <a href="/governance" class="btn btn-secondary">See Our Governance</a>
+    <a href="https://github.com/OpenScience-Collective/osc" class="btn btn-outline">Read Full Details</a>
   </div>
 </div>
 
@@ -233,7 +145,6 @@ Expand to additional research domains and funding sources:
   justify-content: center;
   flex-wrap: wrap;
   gap: 1rem;
-  margin-top: 1.5rem;
 }
 
 .flow-step {
@@ -269,108 +180,60 @@ Expand to additional research domains and funding sources:
   font-weight: bold;
 }
 
-.pillar-details {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin: 1.5rem 0;
-}
-
-.pillar-benefit {
-  background: #f8f9fa;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border-left: 4px solid #28a745;
-}
-
-.pillar-benefit h4 {
-  margin-top: 0;
-  color: #28a745;
-}
-
-.metrics-grid {
+.principles-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
 }
 
-.metric-category {
-  background: #fff;
+.principle-item {
+  background: #f8f9fa;
   padding: 1.5rem;
   border-radius: 8px;
-  border: 2px solid #e9ecef;
-  transition: all 0.3s ease;
+  border-left: 4px solid #28a745;
 }
 
-.metric-category:hover {
-  border-color: #667eea;
-  transform: translateY(-2px);
-}
-
-.metric-category h4 {
+.principle-item h3 {
   margin-top: 0;
-  color: #667eea;
+  color: #28a745;
 }
 
-.services-grid {
+.benefits-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
   margin: 2rem 0;
 }
 
-.service-item {
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+.benefit-group {
+  background: white;
   padding: 1.5rem;
   border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   border-top: 4px solid #667eea;
 }
 
-.service-item h4 {
-  margin-top: 0;
-  color: #333;
-}
-
-.stakeholder-benefits {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin: 3rem 0;
-}
-
-.stakeholder-group {
-  background: #fff;
-  padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  border-top: 4px solid #667eea;
-}
-
-.stakeholder-group h3 {
+.benefit-group h3 {
   margin-top: 0;
   color: #667eea;
 }
 
-.stakeholder-group ul {
+.benefit-group ul {
   list-style: none;
   padding: 0;
 }
 
-.stakeholder-group li {
+.benefit-group li {
   padding: 0.5rem 0;
   border-bottom: 1px solid #f0f0f0;
 }
 
-.stakeholder-group li:last-child {
+.benefit-group li:last-child {
   border-bottom: none;
 }
 
-.stakeholder-group strong {
-  color: #333;
-}
-
-.call-to-action {
+.solution-cta {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   padding: 3rem 2rem;
@@ -379,32 +242,9 @@ Expand to additional research domains and funding sources:
   margin: 3rem 0;
 }
 
-.call-to-action h2 {
+.solution-cta h2 {
   margin-top: 0;
-  font-size: 2.2rem;
-}
-
-.cta-stats {
-  display: flex;
-  justify-content: center;
-  gap: 3rem;
-  margin: 2rem 0;
-}
-
-.cta-stat {
-  text-align: center;
-}
-
-.cta-stat .number {
-  display: block;
-  font-size: 3rem;
-  font-weight: 700;
-  color: #ffd700;
-}
-
-.cta-stat .label {
-  display: block;
-  opacity: 0.9;
+  font-size: 2rem;
 }
 
 .cta-buttons {
@@ -445,6 +285,18 @@ Expand to additional research domains and funding sources:
   transform: translateY(-2px);
 }
 
+.btn-outline {
+  background-color: transparent;
+  color: #ffd700;
+  border: 2px solid #ffd700;
+}
+
+.btn-outline:hover {
+  background-color: #ffd700;
+  color: #333;
+  transform: translateY(-2px);
+}
+
 @media (max-width: 768px) {
   .funding-flow {
     flex-direction: column;
@@ -454,12 +306,9 @@ Expand to additional research domains and funding sources:
     transform: rotate(90deg);
   }
   
-  .stakeholder-benefits {
+  .principles-grid,
+  .benefits-grid {
     grid-template-columns: 1fr;
-  }
-  
-  .cta-stats {
-    gap: 1.5rem;
   }
   
   .cta-buttons {

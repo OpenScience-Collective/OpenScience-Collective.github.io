@@ -4,425 +4,250 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-# Join the Movement for Sustainable Research Software
+# Help Fix Research Software
 
-The OpenScience Collective needs champions from every corner of the research ecosystem. Whether you're a researcher, administrator, software developer, or policy maker, **there's a meaningful role for you** in building sustainable research infrastructure.
+**Every stakeholder in the research ecosystem has a role to play.** Whether you allocate budgets, write grants, maintain software, or make policy—you can help solve this crisis.
 
-## 🔬 **For Researchers**
+## 🔬 **Researchers**
 
-<div class="involvement-section">
-  <div class="involvement-details">
-    <h3>Advocate for Change</h3>
-    <ul>
-      <li><strong>Include software sustainability</strong> in your grant proposals</li>
-      <li><strong>Mention OSC</strong> in funding applications as a resource</li>
-      <li><strong>Cite software</strong> in your publications using proper attribution</li>
-      <li><strong>Share your experience</strong> with software maintenance challenges</li>
-    </ul>
-  </div>
-  
-  <div class="involvement-actions">
-    <h4>Take Action Today</h4>
-    <div class="action-buttons">
-      <a href="#researcher-toolkit" class="btn btn-primary">Download Researcher Toolkit</a>
-      <a href="https://github.com/OpenScience-Collective/advocacy" class="btn btn-secondary">Join Advocacy Network</a>
-    </div>
-  </div>
-</div>
+### Make Your Voice Heard
+- **Include software sustainability** in your grant proposals
+- **Cite software properly** in publications (not just papers about software)
+- **Advocate** for maintenance funding in your community
 
-### 📝 **Template Language for Grants**
-Copy and adapt this language for your grant proposals:
-
-<div class="template-box">
-  <h4>Sustainability Statement Template</h4>
+### Take Action
+<div class="action-box">
+  <h4>📝 Grant Template</h4>
+  <p>Copy this text for your grant proposals:</p>
   <blockquote>
-    <p>"This research depends on open-source software tools including [list tools]. To ensure the long-term sustainability of these critical research infrastructure components, this project will contribute to the OpenScience Collective funding model through [percentage] of direct costs, supporting maintenance, security, and development of the tools that enable our research."</p>
+    "This research depends on open-source tools [list specific software]. To ensure long-term sustainability of these critical research infrastructure components, this project will contribute to sustainable funding models such as the OpenScience Collective."
   </blockquote>
-  <a href="#" class="template-link">📋 Copy to Clipboard</a>
+  <a href="#" class="btn btn-small">📋 Copy Template</a>
 </div>
 
-## 🏛️ **For Universities & Institutions**
+---
 
-<div class="involvement-section">
-  <div class="involvement-details">
-    <h3>Institutional Leadership</h3>
-    <ul>
-      <li><strong>Establish or strengthen</strong> your Open Source Program Office</li>
-      <li><strong>Create policies</strong> supporting software sustainability</li>
-      <li><strong>Recognize software contributions</strong> in tenure and promotion</li>
-      <li><strong>Pilot the OSC model</strong> with selected departments</li>
-    </ul>
+## 🏛️ **Universities & Institutions**
+
+### Lead the Change
+- **Establish or strengthen** your Open Source Program Office (OSPO)
+- **Recognize software contributions** in tenure and promotion decisions
+- **Pilot the OSC model** with select departments
+
+### Partnership Opportunities
+<div class="partnership-grid">
+  <div class="partnership-item">
+    <h4>🚀 Become a Pilot Partner</h4>
+    <p>Join our initial cohort of universities testing the funding model</p>
+    <a href="#contact" class="btn btn-primary">Express Interest</a>
   </div>
   
-  <div class="involvement-actions">
-    <h4>Partnership Opportunities</h4>
-    <div class="action-buttons">
-      <a href="#contact" class="btn btn-primary">Become a Pilot Partner</a>
-      <a href="#ospo-guide" class="btn btn-secondary">OSPO Development Guide</a>
-    </div>
+  <div class="partnership-item">
+    <h4>📊 OSPO Development</h4>
+    <p>We'll help you establish effective open source policies</p>
+    <a href="#ospo-guide" class="btn btn-secondary">Get OSPO Guide</a>
   </div>
 </div>
 
-### 🎯 **Pilot Program Benefits**
-<div class="benefits-grid">
-  <div class="benefit-item">
-    <h4>🌟 Recognition</h4>
-    <p>Be recognized as a leader in sustainable research infrastructure</p>
-  </div>
-  <div class="benefit-item">
-    <h4>💰 Cost Efficiency</h4>
-    <p>Reduce redundant software development across departments</p>
-  </div>
-  <div class="benefit-item">
-    <h4>🔧 Better Tools</h4>
-    <p>Provide researchers with more reliable, better-maintained software</p>
-  </div>
-  <div class="benefit-item">
-    <h4>🎓 Talent Attraction</h4>
-    <p>Attract top researchers and software engineers with cutting-edge infrastructure</p>
-  </div>
-</div>
+---
 
-## 👩‍💻 **For Software Maintainers**
+## 👩‍💻 **Software Maintainers**
 
-<div class="involvement-section">
-  <div class="involvement-details">
-    <h3>Strengthen Your Project</h3>
-    <ul>
-      <li><strong>Document your impact</strong> using our metrics framework</li>
-      <li><strong>Improve tracking</strong> of downloads and usage statistics</li>
-      <li><strong>Engage with users</strong> to understand their needs</li>
-      <li><strong>Collaborate</strong> with other maintainers facing similar challenges</li>
-    </ul>
+### Prepare for Sustainability
+- **Track your impact** with usage analytics
+- **Document** who uses your software and how
+- **Connect** with other maintainers facing similar challenges
+
+### Resources
+<div class="maintainer-resources">
+  <div class="resource-item">
+    <h4>📈 Impact Tracking</h4>
+    <p>Tools to measure and document your software's research impact</p>
   </div>
   
-  <div class="involvement-actions">
-    <h4>Maintainer Resources</h4>
-    <div class="action-buttons">
-      <a href="#maintainer-toolkit" class="btn btn-primary">Get Maintainer Toolkit</a>
-      <a href="#community" class="btn btn-secondary">Join Maintainer Community</a>
-    </div>
-  </div>
-</div>
-
-### 📊 **Prepare for Funding**
-<div class="preparation-checklist">
-  <h4>✅ Pre-Funding Checklist</h4>
-  <ul class="checklist">
-    <li>[ ] Set up usage analytics and tracking</li>
-    <li>[ ] Document current maintenance burden</li>
-    <li>[ ] Identify key user communities</li>
-    <li>[ ] Create sustainability roadmap</li>
-    <li>[ ] Establish governance structure</li>
-    <li>[ ] Develop community engagement plan</li>
-  </ul>
-</div>
-
-## 💼 **For Funding Agencies**
-
-<div class="involvement-section">
-  <div class="involvement-details">
-    <h3>Policy Innovation</h3>
-    <ul>
-      <li><strong>Pilot OSC integration</strong> in select funding programs</li>
-      <li><strong>Develop policies</strong> requiring software sustainability plans</li>
-      <li><strong>Create dedicated funding</strong> for software maintenance</li>
-      <li><strong>Collaborate internationally</strong> on sustainable funding models</li>
-    </ul>
+  <div class="resource-item">
+    <h4>🤝 Maintainer Network</h4>
+    <p>Join our community of research software maintainers</p>
   </div>
   
-  <div class="involvement-actions">
-    <h4>Partnership Opportunities</h4>
-    <div class="action-buttons">
-      <a href="#policy-brief" class="btn btn-primary">Download Policy Brief</a>
-      <a href="#contact" class="btn btn-secondary">Schedule Consultation</a>
-    </div>
+  <div class="resource-item">
+    <h4>💼 Sustainability Planning</h4>
+    <p>Templates for creating long-term sustainability plans</p>
   </div>
 </div>
 
-### 🌍 **International Collaboration**
-<div class="collaboration-opportunities">
-  <div class="collab-item">
-    <h4>🇺🇸 NSF Partnership</h4>
-    <p>Integrate OSC model into existing NSF programs</p>
-  </div>
-  <div class="collab-item">
-    <h4>🇪🇺 EU Horizon Integration</h4>
-    <p>Pilot within European research framework</p>
-  </div>
-  <div class="collab-item">
-    <h4>🌐 Global Standards</h4>
-    <p>Develop international standards for software sustainability</p>
-  </div>
-</div>
+---
 
-## 🤝 **Community Building**
+## 💼 **Funding Agencies**
 
-### 📅 **Upcoming Events**
-<div class="events-calendar">
-  <div class="event-item">
-    <h4>🎤 OSC Webinar Series</h4>
-    <p><strong>Next:</strong> "Implementing Sustainable Funding Models"<br>
-    <strong>Date:</strong> First Tuesday of each month<br>
-    <strong>Time:</strong> 2:00 PM EST</p>
-    <a href="#webinar" class="btn btn-small">Register</a>
+### Policy Innovation
+- **Pilot OSC integration** in select funding programs
+- **Require software sustainability plans** in grant applications
+- **Collaborate internationally** on sustainable funding standards
+
+### Implementation Support
+<div class="agency-support">
+  <div class="support-item">
+    <h4>📋 Policy Templates</h4>
+    <p>Ready-to-use policy language for grant programs</p>
   </div>
   
-  <div class="event-item">
-    <h4>🏛️ University Partnerships Summit</h4>
-    <p><strong>Focus:</strong> OSPO development and institutional policies<br>
-    <strong>Date:</strong> Quarterly<br>
-    <strong>Format:</strong> Hybrid (in-person + virtual)</p>
-    <a href="#summit" class="btn btn-small">Learn More</a>
+  <div class="support-item">
+    <h4>🔍 Impact Assessment</h4>
+    <p>Methods to measure software sustainability outcomes</p>
   </div>
 </div>
 
-### 💬 **Join the Conversation**
-<div class="community-channels">
-  <div class="channel-item">
-    <h4>📧 Mailing List</h4>
-    <p>Monthly updates and announcements</p>
+---
+
+## 🌍 **Join the Community**
+
+<div class="community-section">
+  <div class="community-item">
+    <h3>📧 Monthly Newsletter</h3>
+    <p>Updates on progress, partnerships, and opportunities</p>
     <a href="#subscribe" class="btn btn-outline">Subscribe</a>
   </div>
   
-  <div class="channel-item">
-    <h4>💬 Slack Community</h4>
-    <p>Real-time discussions and support</p>
-    <a href="#slack" class="btn btn-outline">Join Slack</a>
+  <div class="community-item">
+    <h3>🎤 Monthly Webinars</h3>
+    <p>Deep dives into implementation, policy, and best practices</p>
+    <a href="#webinars" class="btn btn-outline">Join Next Session</a>
   </div>
   
-  <div class="channel-item">
-    <h4>📱 Twitter</h4>
-    <p>News, updates, and community highlights</p>
-    <a href="#twitter" class="btn btn-outline">Follow @OSCollective</a>
+  <div class="community-item">
+    <h3>💬 Discussion Forum</h3>
+    <p>Connect with others tackling software sustainability</p>
+    <a href="https://github.com/OpenScience-Collective/osc/discussions" class="btn btn-outline">Join Discussion</a>
   </div>
 </div>
 
 ---
 
 <div class="contact-section">
-  <h2>Ready to Get Started?</h2>
-  <p>We're here to help you find the right way to contribute to sustainable research software. Every contribution matters, no matter how small.</p>
+  <h2>Ready to Act?</h2>
+  <p>Choose your level of engagement—every contribution helps build sustainable research infrastructure.</p>
   
   <div class="contact-options">
     <div class="contact-method">
-      <h3>📧 Email Us</h3>
+      <h3>📧 Email</h3>
       <p>General inquiries and partnership discussions</p>
       <a href="mailto:contact@openscience-collective.org">contact@openscience-collective.org</a>
     </div>
     
     <div class="contact-method">
-      <h3>🗓️ Schedule a Call</h3>
-      <p>One-on-one consultation for institutions and organizations</p>
-      <a href="#calendar" class="btn btn-primary">Book Consultation</a>
+      <h3>🗓️ Strategy Call</h3>
+      <p>30-minute consultation for institutions and agencies</p>
+      <a href="#calendar" class="btn btn-primary">Schedule Call</a>
     </div>
     
     <div class="contact-method">
       <h3>📋 Quick Survey</h3>
-      <p>Help us understand your needs and priorities</p>
-      <a href="#survey" class="btn btn-secondary">Take 5-Minute Survey</a>
+      <p>2-minute survey to help us understand your priorities</p>
+      <a href="#survey" class="btn btn-secondary">Take Survey</a>
     </div>
   </div>
 </div>
 
 <style>
-.involvement-section {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 2rem;
-  margin: 2rem 0;
-  padding: 2rem;
-  background: #f8f9fa;
-  border-radius: 8px;
-}
-
-.involvement-details h3 {
-  margin-top: 0;
-  color: #667eea;
-}
-
-.involvement-actions {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.involvement-actions h4 {
-  margin-top: 0;
-  color: #333;
-}
-
-.action-buttons {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.btn {
-  padding: 10px 20px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: 600;
-  text-align: center;
-  transition: all 0.3s ease;
-  display: inline-block;
-}
-
-.btn-primary {
-  background-color: #667eea;
-  color: white;
-}
-
-.btn-primary:hover {
-  background-color: #5a6fd8;
-  transform: translateY(-2px);
-}
-
-.btn-secondary {
-  background-color: #28a745;
-  color: white;
-}
-
-.btn-secondary:hover {
-  background-color: #218838;
-  transform: translateY(-2px);
-}
-
-.btn-outline {
-  background-color: transparent;
-  color: #667eea;
-  border: 2px solid #667eea;
-}
-
-.btn-outline:hover {
-  background-color: #667eea;
-  color: white;
-}
-
-.btn-small {
-  padding: 8px 16px;
-  font-size: 0.9rem;
-}
-
-.template-box {
+.action-box {
   background: #e8f4fd;
   padding: 1.5rem;
   border-radius: 8px;
   border-left: 4px solid #2196f3;
-  margin: 2rem 0;
+  margin: 1.5rem 0;
 }
 
-.template-box h4 {
+.action-box h4 {
   margin-top: 0;
   color: #2196f3;
 }
 
-.template-link {
-  color: #2196f3;
-  text-decoration: none;
-  font-weight: 600;
+.action-box blockquote {
+  background: white;
+  padding: 1rem;
+  border-radius: 4px;
+  font-style: italic;
+  margin: 1rem 0;
 }
 
-.benefits-grid {
+.partnership-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
 }
 
-.benefit-item {
-  background: white;
+.partnership-item {
+  background: #f8f9fa;
   padding: 1.5rem;
   border-radius: 8px;
   text-align: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-top: 4px solid #28a745;
 }
 
-.benefit-item h4 {
+.partnership-item h4 {
   margin-top: 0;
-  color: #667eea;
+  color: #28a745;
 }
 
-.preparation-checklist {
-  background: #fff8e1;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border-left: 4px solid #ff9800;
-  margin: 2rem 0;
-}
-
-.preparation-checklist h4 {
-  margin-top: 0;
-  color: #ff9800;
-}
-
-.checklist {
-  list-style: none;
-  padding: 0;
-}
-
-.checklist li {
-  padding: 0.5rem 0;
-  font-family: monospace;
-}
-
-.collaboration-opportunities {
+.maintainer-resources {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
 }
 
-.collab-item {
+.resource-item {
+  background: #fff8e1;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid #ff9800;
+}
+
+.resource-item h4 {
+  margin-top: 0;
+  color: #ff9800;
+}
+
+.agency-support {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.support-item {
   background: #f3e5f5;
   padding: 1.5rem;
   border-radius: 8px;
   border-left: 4px solid #9c27b0;
 }
 
-.collab-item h4 {
+.support-item h4 {
   margin-top: 0;
   color: #9c27b0;
 }
 
-.events-calendar {
+.community-section {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 2rem;
-  margin: 2rem 0;
+  margin: 3rem 0;
 }
 
-.event-item {
+.community-item {
   background: white;
-  padding: 1.5rem;
+  padding: 2rem;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  border-top: 4px solid #28a745;
-}
-
-.event-item h4 {
-  margin-top: 0;
-  color: #28a745;
-}
-
-.community-channels {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.channel-item {
-  background: #f8f9fa;
-  padding: 1.5rem;
-  border-radius: 8px;
   text-align: center;
+  border-top: 4px solid #667eea;
 }
 
-.channel-item h4 {
+.community-item h3 {
   margin-top: 0;
-  color: #333;
+  color: #667eea;
 }
 
 .contact-section {
@@ -463,15 +288,58 @@ Copy and adapt this language for your grant proposals:
   text-decoration: none;
 }
 
+.btn {
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  text-align: center;
+  transition: all 0.3s ease;
+  display: inline-block;
+  margin: 0.5rem 0;
+}
+
+.btn-primary {
+  background-color: #667eea;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #5a6fd8;
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  background-color: #28a745;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-color: #218838;
+  transform: translateY(-2px);
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: #667eea;
+  border: 2px solid #667eea;
+}
+
+.btn-outline:hover {
+  background-color: #667eea;
+  color: white;
+}
+
+.btn-small {
+  padding: 8px 16px;
+  font-size: 0.9rem;
+}
+
 @media (max-width: 768px) {
-  .involvement-section {
-    grid-template-columns: 1fr;
-  }
-  
-  .benefits-grid,
-  .collaboration-opportunities,
-  .events-calendar,
-  .community-channels,
+  .partnership-grid,
+  .maintainer-resources,
+  .agency-support,
+  .community-section,
   .contact-options {
     grid-template-columns: 1fr;
   }

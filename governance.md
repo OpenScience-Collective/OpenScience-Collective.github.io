@@ -4,9 +4,9 @@ title: "Governance"
 permalink: /governance/
 ---
 
-# Transparent, Accountable Governance
+# Governance Built for Trust
 
-The OpenScience Collective is built on principles of **transparency, accountability, and community representation**. Our governance structure ensures that all stakeholders have a voice while maintaining the agility needed for effective decision-making.
+**Transparency, accountability, and rapid decision-making.** Our governance structure ensures all stakeholders have a voice while maintaining the agility needed for effective action.
 
 ## Organizational Structure
 

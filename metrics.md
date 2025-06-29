@@ -4,9 +4,9 @@ title: "Metrics & Impact"
 permalink: /metrics/
 ---
 
-# Transparent Metrics for Sustainable Funding
+# Evidence-Based Funding
 
-The OpenScience Collective operates on the principle of **evidence-based funding allocation**. Our multi-dimensional metrics framework ensures resources reach the tools that truly serve the research community while maintaining transparency and accountability.
+**Every funding decision backed by transparent, verifiable data.** Our multi-dimensional metrics framework ensures resources reach the tools researchers actually depend on.
 
 ## 📊 **Comprehensive Metrics Framework**
 
