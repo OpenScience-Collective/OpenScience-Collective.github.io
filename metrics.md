@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Metrics & Impact"
+title: "Metrics & Impact (Draft)"
 permalink: /metrics/
 ---
 
 # Evidence-Based Funding
 
 **Every funding decision backed by transparent, verifiable data.** Our multi-dimensional metrics framework ensures resources reach the tools researchers actually depend on.
+
+**Note:** This is only an exemplar draft to demonstrate the concept. There are several details (such as the ceiling and floor for the metrics) that are not defined and should be determined.
 
 ## 📊 **Comprehensive Metrics Framework**
 
@@ -18,6 +20,7 @@ permalink: /metrics/
       <li>Package manager downloads (PyPI, CRAN, npm, etc.)</li>
       <li>Docker image pulls and container usage</li>
       <li>Source code downloads and repository clones</li>
+      <li>GitHub Stars and Forks</li>
       <li>Binary distribution downloads</li>
     </ul>
   </div>
@@ -254,8 +257,8 @@ Our commitment to transparency includes a **public dashboard** showing:
 </div>
 
 ---
-
-<div class="metrics-cta">
+<!-- Add this back in when we have a dashboard -->
+<!-- <div class="metrics-cta">
   <h2>Experience Transparency in Action</h2>
   <p>Our metrics framework isn't just theoretical—it's designed for practical implementation with real accountability. See how we're building trust through data.</p>
   
@@ -269,7 +272,7 @@ Our commitment to transparency includes a **public dashboard** showing:
     <h3>Our Promise</h3>
     <p><strong>Every funding decision will be backed by transparent, verifiable data that serves the research community's best interests.</strong></p>
   </div>
-</div>
+</div> -->
 
 <style>
 .metric-category {
