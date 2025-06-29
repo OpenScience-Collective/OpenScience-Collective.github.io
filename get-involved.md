@@ -131,12 +131,12 @@ permalink: /get-involved/
   <h2>Ready to Act?</h2>
   <p>Choose your level of engagement—every contribution helps build sustainable research infrastructure.</p>
   
-  <div class="contact-options">
-    <div class="contact-method">
-      <h3>📧 Email</h3>
-      <p>General inquiries and partnership discussions</p>
-      <a href="mailto:opensciencecollective.osc@gmail.com">opensciencecollective.osc@gmail.com</a>
-    </div>
+  <!-- <div class="contact-options"> -->
+  <div class="contact-method">
+    <h3>📧 Email</h3>
+    <p>General inquiries and partnership discussions</p>
+    <a href="mailto:opensciencecollective.osc@gmail.com">opensciencecollective.osc@gmail.com</a>
+  </div>
 
     <!-- TODO: #5 Add this back in when we have Office Hours -->
     <!-- <div class="contact-method">
@@ -151,7 +151,7 @@ permalink: /get-involved/
       <p>2-minute survey to help us understand your priorities</p>
       <a href="#survey" class="btn btn-secondary">Take Survey (Coming Soon)</a>
     </div>
-  </div>
+  <!-- </div> -->
 </div>
 
 <style>
