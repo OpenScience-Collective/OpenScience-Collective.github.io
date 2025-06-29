@@ -34,7 +34,8 @@ permalink: /get-involved/
 - **Recognize software contributions** in tenure and promotion decisions
 - **Pilot the OSC model** with select departments
 
-### Partnership Opportunities
+<!-- TODO: #1 Add this back in when we have Pilot and OSPO guides-->
+<!-- ### Partnership Opportunities
 <div class="partnership-grid">
   <div class="partnership-item">
     <h4>🚀 Become a Pilot Partner</h4>
@@ -47,7 +48,7 @@ permalink: /get-involved/
     <p>We'll help you establish effective open source policies</p>
     <a href="#ospo-guide" class="btn btn-secondary">Get OSPO Guide</a>
   </div>
-</div>
+</div> -->
 
 ---
 
@@ -102,18 +103,20 @@ permalink: /get-involved/
 
 ## 🌍 **Join the Community**
 
-<div class="community-section">
+<!-- TODO: #3 Add this back in when we have a newsletter -->
+<!-- <div class="community-section">
   <div class="community-item">
     <h3>📧 Monthly Newsletter</h3>
     <p>Updates on progress, partnerships, and opportunities</p>
     <a href="#subscribe" class="btn btn-outline">Subscribe</a>
-  </div>
-  
-  <div class="community-item">
+  </div> -->
+
+  <!-- TODO: #4 Add this back in when we have webinars -->
+  <!-- <div class="community-item">
     <h3>🎤 Monthly Webinars</h3>
     <p>Deep dives into implementation, policy, and best practices</p>
     <a href="#webinars" class="btn btn-outline">Join Next Session</a>
-  </div>
+  </div> -->
   
   <div class="community-item">
     <h3>💬 Discussion Forum</h3>
@@ -132,19 +135,21 @@ permalink: /get-involved/
     <div class="contact-method">
       <h3>📧 Email</h3>
       <p>General inquiries and partnership discussions</p>
-      <a href="mailto:contact@openscience-collective.org">contact@openscience-collective.org</a>
+      <a href="mailto:opensciencecollective.osc@gmail.com">opensciencecollective.osc@gmail.com</a>
     </div>
-    
-    <div class="contact-method">
+
+    <!-- TODO: #5 Add this back in when we have Office Hours -->
+    <!-- <div class="contact-method">
       <h3>🗓️ Strategy Call</h3>
       <p>30-minute consultation for institutions and agencies</p>
       <a href="#calendar" class="btn btn-primary">Schedule Call</a>
-    </div>
+    </div> -->
     
+    <!-- TODO: #6 Make a survey using Google Forms -->
     <div class="contact-method">
       <h3>📋 Quick Survey</h3>
       <p>2-minute survey to help us understand your priorities</p>
-      <a href="#survey" class="btn btn-secondary">Take Survey</a>
+      <a href="#survey" class="btn btn-secondary">Take Survey (Coming Soon)</a>
     </div>
   </div>
 </div>

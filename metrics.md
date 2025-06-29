@@ -257,7 +257,7 @@ Our commitment to transparency includes a **public dashboard** showing:
 </div>
 
 ---
-<!-- Add this back in when we have a dashboard -->
+<!-- TODO: #2 Add this back in when we have a dashboard -->
 <!-- <div class="metrics-cta">
   <h2>Experience Transparency in Action</h2>
   <p>Our metrics framework isn't just theoretical—it's designed for practical implementation with real accountability. See how we're building trust through data.</p>
