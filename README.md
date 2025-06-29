@@ -38,7 +38,7 @@ Code is licensed under MIT License.
 
 ## Contact
 
-- Email: contact@openscience-collective.org
+- Email: opensciencecollective.osc@gmail.com
 - GitHub: [@OpenScience-Collective](https://github.com/OpenScience-Collective)
 
 ---
