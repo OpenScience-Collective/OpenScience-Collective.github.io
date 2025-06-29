@@ -14,8 +14,8 @@ plugins:
   - jekyll-seo-tag
 
 # Site settings
-author: "OpenScience Collective"
-email: "opensciencecollective.osc@gmail.com"
+# author: "OpenScience Collective"
+# email: "opensciencecollective.osc@gmail.com"
 
 # Social links
 github_username: OpenScience-Collective
