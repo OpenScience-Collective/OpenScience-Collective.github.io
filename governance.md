@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Governance"
+title: "Governance (Draft)"
 permalink: /governance/
 ---
 
 # Governance Built for Trust
 
 **Transparency, accountability, and rapid decision-making.** Our governance structure ensures all stakeholders have a voice while maintaining the agility needed for effective action.
+
+**Note:** This is only an exemplar draft to demonstrate the concept. The governance structure will be officially formulated in the future.
 
 ## Organizational Structure
 
