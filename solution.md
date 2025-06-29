@@ -37,6 +37,10 @@ A small percentage of grant funding can solve the research software sustainabili
 - **Our contribution:** $500 (0.1%)
 - **Impact:** Sustainable funding for critical research tools
 
+The U.S. funded research budget is [~$180B](https://ncses.nsf.gov/pubs/nsf25329). Appropriating 0.1% of this budget ($180M) would fund the maintenance of all the software that researchers use across all disciplines. Even if only the non-defence research budget (~$100B) is considered, this would be enough to fund the maintenance of most of open-science tools. This is equal to hiring ~400 full-time software engineers with a median salary of $160,000 (and 50% overhead).
+
+With the other countries joining the effort, we can build a sustainable funding model for open-science maintenance.
+
 ## Four Key Principles
 
 <div class="principles-grid">
@@ -63,17 +67,17 @@ A small percentage of grant funding can solve the research software sustainabili
 
 ## Implementation Plan
 
-### Phase 1: Pilot Programs (Year 1)
+### Phase 1: Pilot Programs
 - Partner with 3-5 universities with established OSPOs
 - Test with ~50 research grants
 - Refine metrics and processes
 
-### Phase 2: Expansion (Years 2-3)
+### Phase 2: Expansion
 - Expand to 20+ institutions
 - Integrate with major funding agencies
 - Develop international partnerships
 
-### Phase 3: Scale (Years 4-5)
+### Phase 3: Scale
 - National and international adoption
 - Self-sustaining ecosystem
 - Standard practice for research grants
