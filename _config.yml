@@ -1,0 +1,40 @@
+# Site Configuration
+title: "OpenScience Collective"
+description: "Sustainable Funding for Academic Open Science"
+url: "https://openscience-collective.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Site settings
+author:
+  name: "OpenScience Collective"
+  email: "contact@openscience-collective.org"
+
+# Social links
+github_username: OpenScience-Collective
+
+# Navigation
+header_pages:
+  - about.md
+  - solution.md
+  - governance.md
+  - get-involved.md
+  - metrics.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
