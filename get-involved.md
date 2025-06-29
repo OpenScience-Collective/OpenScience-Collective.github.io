@@ -6,7 +6,7 @@ permalink: /get-involved/
 
 # Help Fix Research Software
 
-**Every stakeholder in the research ecosystem has a role to play.** Whether you allocate budgets, write grants, maintain software, or make policy—you can help solve this crisis.
+**Every stakeholder in the research ecosystem has a role to play.** Whether you allocate budgets, write grants, maintain software, or make policy—you can help solve this crisis. The 0.1% contribution can be made from the University's overhead budget, or from the grant itself. This is a bottom-up approach to solve the problem. Waiting for policy changes, while important, may not be enough.
 
 ## 🔬 **Researchers**
 
@@ -30,9 +30,9 @@ permalink: /get-involved/
 ## 🏛️ **Universities & Institutions**
 
 ### Lead the Change
-- **Establish or strengthen** your Open Source Program Office (OSPO)
+- **Establish or strengthen** your Open Source Program Office (OSPO). This is a great opportunity to build a sustainable funding model for open-science maintenance.
 - **Recognize software contributions** in tenure and promotion decisions
-- **Pilot the OSC model** with select departments
+- **Pilot the OSC model** with select departments. The 0.1% contribution can be made from the University's overhead budget. While non-significant for the University, it is a significant contribution to the software maintainers
 
 <!-- TODO: #1 Add this back in when we have Pilot and OSPO guides-->
 <!-- ### Partnership Opportunities
