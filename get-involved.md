@@ -135,7 +135,7 @@ permalink: /get-involved/
   <div class="contact-method">
     <h3>📧 Email</h3>
     <p>General inquiries and partnership discussions</p>
-    <a href="mailto:opensciencecollective.osc@gmail.com">opensciencecollective.osc@gmail.com</a>
+    <a href="mailto:info@osc.earth">info@osc.earth</a>
   </div>
 
     <!-- TODO: #5 Add this back in when we have Office Hours -->

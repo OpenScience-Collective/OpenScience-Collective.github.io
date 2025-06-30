@@ -1,7 +1,7 @@
 # Site Configuration
 title: "OpenScience Collective"
 description: "Sustainable Funding for Academic Open Science"
-url: "https://openscience-collective.github.io"
+url: "https://osc.earth"
 baseurl: ""
 
 # Build settings
@@ -15,7 +15,7 @@ plugins:
 
 # Site settings
 # author: "OpenScience Collective"
-# email: "opensciencecollective.osc@gmail.com"
+email: "info@osc.earth"
 
 # Social links
 github_username: OpenScience-Collective

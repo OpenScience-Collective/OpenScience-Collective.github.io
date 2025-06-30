@@ -1,6 +1,6 @@
 # OpenScience Collective Website
 
-This is the official website for the OpenScience Collective, hosted at [openscience-collective.github.io](https://openscience-collective.github.io).
+This is the official website for the OpenScience Collective, hosted at [osc.earth](https://osc.earth).
 
 ## About
 
@@ -38,7 +38,7 @@ Code is licensed under MIT License.
 
 ## Contact
 
-- Email: opensciencecollective.osc@gmail.com
+- Email: info@osc.earth
 - GitHub: [@OpenScience-Collective](https://github.com/OpenScience-Collective)
 
 ---
