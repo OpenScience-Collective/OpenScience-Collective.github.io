@@ -6,9 +6,36 @@ permalink: /governance/
 
 # Governance Built for Trust
 
-**Transparency, accountability, and rapid decision-making.** Our governance structure ensures all stakeholders have a voice while maintaining the agility needed for effective action.
+**Transparency, accountability, and rapid decision-making.** As an independent, non-governmental organization modeled after ISO, TIA, and IEC, our governance structure ensures all stakeholders have a voice while maintaining the agility needed for effective action.
 
 **Note:** This is only an exemplar draft to demonstrate the concept. The governance structure will be officially formulated in the future.
+
+## Non-Governmental Organization Model
+
+The OSC operates as a **membership-based organization** where universities and research institutions with OSPOs become voting members, contributing funding and participating in strategic governance decisions.
+
+### 🏛️ **Institutional Membership**
+<div class="governance-section">
+  <div class="governance-details">
+    <h4>Member Categories</h4>
+    <ul>
+      <li>Universities with established OSPOs</li>
+      <li>Research institutions and laboratories</li>
+      <li>National research councils</li>
+      <li>International research consortiums</li>
+    </ul>
+  </div>
+  
+  <div class="governance-details">
+    <h4>Member Rights & Responsibilities</h4>
+    <ul>
+      <li>Voting rights in governance decisions</li>
+      <li>Representation on technical committees</li>
+      <li>Access to shared resources and services</li>
+      <li>Financial contributions based on research volume</li>
+    </ul>
+  </div>
+</div>
 
 ## Organizational Structure
 
@@ -36,25 +63,25 @@ permalink: /governance/
   </div>
 </div>
 
-### 🌍 **Regional Offices**
+### 🌍 **OSPO Network**
 <div class="governance-section">
   <div class="governance-details">
-    <h4>Structure</h4>
+    <h4>Member OSPOs</h4>
     <ul>
-      <li>Partnership with university OSPOs</li>
-      <li>Regional representation and coordination</li>
-      <li>Local community engagement</li>
-      <li>Cultural and linguistic adaptation</li>
+      <li>University Open Source Program Offices</li>
+      <li>National research council OSPOs</li>
+      <li>Regional coordination networks</li>
+      <li>International collaboration hubs</li>
     </ul>
   </div>
   
   <div class="governance-details">
-    <h4>Functions</h4>
+    <h4>Collaborative Functions</h4>
     <ul>
-      <li>Grant administration and compliance</li>
-      <li>Local stakeholder engagement</li>
-      <li>Regional funding allocation</li>
-      <li>Community support and training</li>
+      <li>Fund collection and administration</li>
+      <li>Local project evaluation and support</li>
+      <li>Regional standards implementation</li>
+      <li>Community training and best practices</li>
     </ul>
   </div>
 </div>
@@ -62,22 +89,45 @@ permalink: /governance/
 ### 🔬 **Technical Committees**
 <div class="governance-section">
   <div class="governance-details">
-    <h4>Domain Expertise</h4>
+    <h4>Collegial Structure</h4>
     <ul>
-      <li>Bioinformatics and computational biology</li>
-      <li>Physical sciences and engineering</li>
-      <li>Social sciences and humanities</li>
-      <li>Data science and machine learning</li>
+      <li>Domain experts from member institutions</li>
+      <li>Software maintainers and research engineers</li>
+      <li>Cross-disciplinary representation</li>
+      <li>Rotating membership with term limits</li>
     </ul>
   </div>
   
   <div class="governance-details">
-    <h4>Responsibilities</h4>
+    <h4>Standards & Oversight</h4>
     <ul>
+      <li>Research software quality standards</li>
+      <li>Documentation and testing requirements</li>
       <li>Technical evaluation of funding proposals</li>
-      <li>Software quality standards development</li>
-      <li>Best practices documentation</li>
-      <li>Cross-project collaboration facilitation</li>
+      <li>Performance auditing and review processes</li>
+    </ul>
+  </div>
+</div>
+
+### 🔍 **Auditing Bodies**
+<div class="governance-section">
+  <div class="governance-details">
+    <h4>Independent Oversight</h4>
+    <ul>
+      <li>Financial auditing and transparency</li>
+      <li>Performance evaluation and metrics</li>
+      <li>Conflict of interest management</li>
+      <li>Community feedback integration</li>
+    </ul>
+  </div>
+  
+  <div class="governance-details">
+    <h4>Fast Turnaround</h4>
+    <ul>
+      <li>Streamlined review processes</li>
+      <li>Clear decision timelines</li>
+      <li>Rapid response mechanisms</li>
+      <li>Efficient appeals procedures</li>
     </ul>
   </div>
 </div>

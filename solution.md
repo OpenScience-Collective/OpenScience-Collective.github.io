@@ -65,6 +65,44 @@ With the other countries joining the effort, we can build a sustainable funding 
   </div>
 </div>
 
+## Organizational Structure
+
+The OSC operates as an **independent, non-governmental organization** modeled after established international bodies like ISO or IEC, but specifically designed for research software sustainability.
+
+### Membership-Based Governance
+
+<div class="governance-structure">
+  <div class="governance-item">
+    <h3>🏛️ Institutional Members</h3>
+    <p>Universities and research institutions with OSPOs become voting members, contributing funding and participating in strategic decisions.</p>
+  </div>
+  
+  <div class="governance-item">
+    <h3>🔬 Technical Committees</h3>
+    <p>Domain experts from member institutions form committees to evaluate projects, set standards, and ensure quality across disciplines.</p>
+  </div>
+  
+  <div class="governance-item">
+    <h3>🔍 Auditing Bodies</h3>
+    <p>Independent oversight committees provide transparency and accountability through regular audits and performance reviews.</p>
+  </div>
+  
+  <div class="governance-item">
+    <h3>⚡ Rapid Response</h3>
+    <p>Streamlined processes enable quick funding decisions and support delivery without bureaucratic delays.</p>
+  </div>
+</div>
+
+### Beyond Standards Organizations
+
+While inspired by standards bodies, the OSC serves a unique mission combining:
+- **Fund Collection & Distribution**: Systematic gathering and allocation of sustainability funding
+- **Standards Development**: Quality standards for research software and documentation
+- **Technical Oversight**: Expert evaluation and continuous improvement processes
+- **Shared Services**: Economy-of-scale benefits for security, testing, and community management
+
+This structure ensures **transparent operations**, **collegial decision-making**, and **rapid turnaround** while maintaining the oversight and accountability that research communities require.
+
 ## Implementation Plan
 
 ### Phase 1: Pilot Programs
@@ -201,6 +239,25 @@ With the other countries joining the effort, we can build a sustainable funding 
 .principle-item h3 {
   margin-top: 0;
   color: #28a745;
+}
+
+.governance-structure {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.governance-item {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid #667eea;
+}
+
+.governance-item h3 {
+  margin-top: 0;
+  color: #667eea;
 }
 
 .benefits-grid {

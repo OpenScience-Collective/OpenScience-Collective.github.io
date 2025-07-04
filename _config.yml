@@ -24,6 +24,7 @@ github_username: OpenScience-Collective
 header_pages:
   - about.md
   - solution.md
+  - vision.md
   - governance.md
   - get-involved.md
   - metrics.md
